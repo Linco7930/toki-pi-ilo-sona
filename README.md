@@ -14,3 +14,6 @@ pali wawa li ni:
 Output: "toki a!"
 
 Unfortunately I will most likely have to pick either UCSUR compatible or latin compatible, and I’m going to use latin so the most people possible can use the language. I may get to making it UCSUR compatible as another version of the language after I am done with the latin script version.
+
+# Thank you's
+Currently I want to thank FulinS, my coding friend, for helping me figure out a few confusing statements.
